@@ -1,9 +1,3 @@
-[submodule "GNY_LWMS_BE"]
-   path = GNY_LWMS_CODE/GNY_LWMS_BE
-   url = https://github.com/HITEKIM/GNY_LWMS_BE.git
-[submodule "GNY_LWMS_FE"]
-   path = GNY_LWMS_CODE/GNY_LWMS_FE
-   url = https://github.com/HITEKIM/GNY_LWMS_FE.git
 [submodule "GNY_LWMS_CODE/GNY_LWMS_FE"]
 	path = GNY_LWMS_CODE/GNY_LWMS_FE
 	url = git@github.com:HITEKIM/GNY_LWMS_FE.git
